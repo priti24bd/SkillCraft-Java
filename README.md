@@ -2,9 +2,9 @@
 
 ## 🌟 Overview
 **SkillCraft** is a creative Java console program that celebrates both **soft** and **hard** skills.  
-It allows users to enter a list of their skills, and the program automatically identifies whether they’re *soft* or *hard* skills — showing a motivational message for each.
+It allows users to enter a list of their skills, and the program automatically identifies whether they’re *soft* or *hard* skills - showing a motivational message for each.
 
-This project reflects my belief that **“Skill is everything — it can be art, craft, or code.”**
+This project reflects my belief that **“Skill is everything - it can be art, craft, or code.”**
 
 ---
 
